@@ -1,0 +1,36 @@
+
+div{
+	 padding: 2em;
+	 background-color: white;
+	 width: 15em;
+	border: 1em;
+	margin-left: 30em;
+	margin-top: 12em;
+}
+form{
+	border: 3px }
+input[type=text],input[type=password]
+{
+	width:80%;
+	padding: 1em;
+	margin: 8px;
+	border: none;
+	background-color: beige;
+}
+button{
+	background-color:forestgreen;
+	color: white;
+	padding: 1em;
+	margin: 8px;
+	border: none;
+	width: 91%
+}
+button:hover{
+	opacity:0.8;
+}
+.cre em{
+	color: chartreuse;
+	font-style: normal;
+	
+}
+

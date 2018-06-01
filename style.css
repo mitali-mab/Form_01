@@ -8,7 +8,9 @@ div{
 	margin-top: 12em;
 }
 form{
-	border: 3px }
+	border: 3px 
+}
+
 input[type=text],input[type=password]
 {
 	width:80%;
